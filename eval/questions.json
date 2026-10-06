@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Q1",
+    "question": "How long does Jupiter take to orbit the Sun?",
+    "answerable": true,
+    "expected": "11.86 years (its orbital period).",
+    "must_contain": ["11.86"]
+  },
+  {
+    "id": "Q2",
+    "question": "What is the largest crater on Mercury?",
+    "answerable": true,
+    "expected": "Caloris Planitia, with a diameter of 1,550 km.",
+    "must_contain": ["Caloris Planitia"]
+  },
+  {
+    "id": "Q3",
+    "question": "How many moons does Mars have?",
+    "answerable": true,
+    "expected": "Two: Phobos and Deimos (the document calls them \"natural satellites\").",
+    "must_contain": ["Phobos", "Deimos"]
+  },
+  {
+    "id": "Q4",
+    "question": "What is the atmosphere of Venus mostly made of?",
+    "answerable": true,
+    "expected": "Mostly carbon dioxide, with a thick cloud layer of sulfuric acid.",
+    "must_contain": ["carbon dioxide"]
+  },
+  {
+    "id": "Q5",
+    "question": "Which spacecraft was the first to orbit Mars?",
+    "answerable": true,
+    "expected": "Mariner 9, in 1971.",
+    "must_contain": ["Mariner 9"]
+  },
+  {
+    "id": "Q6",
+    "question": "Which is the smallest planet in the Solar System?",
+    "answerable": true,
+    "expected": "Mercury.",
+    "must_contain": ["Mercury", "smallest"]
+  },
+  {
+    "id": "Q7",
+    "question": "How many moons does Saturn have?",
+    "answerable": false,
+    "expected": "Abstain. Saturn is mentioned once, in passing, and its moons are never discussed.",
+    "must_contain": []
+  },
+  {
+    "id": "Q8",
+    "question": "When did humans first land on Venus?",
+    "answerable": false,
+    "expected": "Abstain. The documents describe robotic probes reaching Venus but no human landing (none has happened).",
+    "must_contain": []
+  }
+]

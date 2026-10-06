@@ -1,0 +1,42 @@
+[
+  {
+    "doc_id": "mercury",
+    "title": "Mercury (planet)",
+    "file": "docs/mercury.txt",
+    "url": "https://en.wikipedia.org/wiki/Mercury_%28planet%29",
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1377442586",
+    "revision_timestamp": "2026-09-29T11:44:51Z",
+    "section": "introduction only",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "doc_id": "venus",
+    "title": "Venus",
+    "file": "docs/venus.txt",
+    "url": "https://en.wikipedia.org/wiki/Venus",
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375690330",
+    "revision_timestamp": "2026-09-19T11:06:36Z",
+    "section": "introduction only",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "doc_id": "mars",
+    "title": "Mars",
+    "file": "docs/mars.txt",
+    "url": "https://en.wikipedia.org/wiki/Mars",
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1375821898",
+    "revision_timestamp": "2026-09-20T07:41:36Z",
+    "section": "introduction only",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "doc_id": "jupiter",
+    "title": "Jupiter",
+    "file": "docs/jupiter.txt",
+    "url": "https://en.wikipedia.org/wiki/Jupiter",
+    "permalink": "https://en.wikipedia.org/w/index.php?oldid=1378749852",
+    "revision_timestamp": "2026-10-06T00:50:53Z",
+    "section": "introduction only",
+    "license": "CC BY-SA 4.0"
+  }
+]
