@@ -156,8 +156,6 @@ answer the question?").
 
 ## What I learned
 
-<!-- TODO: rewrite these in your own words, and remove any you do not agree with. -->
-
 - A retrieval score cannot decide when to abstain. Unanswerable questions
   scored higher than some answerable ones because they matched common words.
   Looking at which keywords were *missing* worked better.
@@ -170,19 +168,18 @@ answer the question?").
 
 ## AI assistance
 
-<!-- TODO: edit so that every statement here is true for you. -->
-
 - **What I used:** Claude Code (Claude Opus) wrote the code, the test
   questions and the first draft of this README, one step at a time. I chose
   the topic and the approach (keyword search with extractive answers, no LLM).
-- **What I checked myself:** TODO, for example: read the four documents; ran
-  every command in this README; compared each expected answer in
-  `eval/questions.json` with the documents; read `eval/results.md` and agreed
-  with each pass/fail judgment; read `rag.py` and can explain each step.
+- **What I checked myself:** I read the four documents. I ran `rag.py` and
+  `evaluate.py` myself and got the same 6 of 8 result. I compared each expected
+  answer in `eval/questions.json` with the documents and agree with each
+  pass/fail judgment in `eval/results.md`. I read `rag.py` and can explain
+  the chunking, retrieval, answering and abstention steps.
 
 ## Time spent
 
-TODO: approximately X hours.
+About 2 hours.
 
 ## Files
 
